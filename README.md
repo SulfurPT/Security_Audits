@@ -4,7 +4,7 @@
 
 | Project | Date | Platform | Vulns |
 |:--------|:----:|:--------:|:-----------------|
-| [BadgerDAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) | Mar/2024 | [Cantina](https://cantina.xyz) | <ul><li>[H-1 Incorrect Decimal Handling in EbtcBSM](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/findings/385)</li></ul> |
+| [BadgerDAO](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) | Mar/2024 | [Cantina](https://cantina.xyz) | <ul><li>[H-1 Incorrect Decimal Handling in EbtcBSM Leads to Severe Exchange Rate Discrepancies](https://cantina.xyz/code/f57ffb47-0ded-4f04-bcec-ecd7d47fad58/findings/385)</li></ul> |
 ---
 
 | Project | Date | Platform | Vulns |
