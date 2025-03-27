@@ -16,5 +16,5 @@
 
 | Project | Date | Company | Vulns |
 |:--------|:----:|:--------:|:-----------------|
-| [UniformBiddingMarket]([https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58](https://github.com/dindonero/UniformBiddingMarket)) | Mar/2024 | [Nova IMS](https://www.novaims.unl.pt/) | <> |
+| [UniformBiddingMarket](https://github.com/dindonero/UniformBiddingMarket) | Mar/2024 | [Nova IMS](https://www.novaims.unl.pt/) | <> |
 ---
